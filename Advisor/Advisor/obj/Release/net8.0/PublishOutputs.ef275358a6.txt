@@ -1,0 +1,5 @@
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Advisor\Advisor\bin\Release\net8.0\app.publish\Advisor.exe
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Advisor\Advisor\bin\Release\net8.0\app.publish\Advisor.dll
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Advisor\Advisor\bin\Release\net8.0\app.publish\Advisor.deps.json
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Advisor\Advisor\bin\Release\net8.0\app.publish\Advisor.runtimeconfig.json
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Advisor\Advisor\bin\Release\net8.0\app.publish\Advisor.pdb
